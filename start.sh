@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3 python train.py > logs/sighan_rule/train_log.out 2>&1

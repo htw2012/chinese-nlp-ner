@@ -1,2 +1,1 @@
 [word embedding file](https://drive.google.com/open?id=1cNKVQSxiZ7LVIFMdHIeQU7cS-66xD0Br)
-[Model weights](https://drive.google.com/open?id=1t4CnstODDE67_TBKmFen_EgJMgIDtv9c)

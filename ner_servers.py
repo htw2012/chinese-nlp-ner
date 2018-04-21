@@ -226,7 +226,6 @@ def ner_text_prob():
 
 
 if __name__ == "__main__":
-    # app.run(host='172.18.8.181', port=5001)
-    # app.run(host='59.110.17.12', port=5001)
-    app.run(host='59.110.17.12', port=5005)
+   
+    app.run(host='XXXX', port=5005)
 
